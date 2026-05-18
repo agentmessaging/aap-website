@@ -1,0 +1,7 @@
+# Agent Actions Protocol (AAP)
+# https://agentactions.org
+
+User-agent: *
+Allow: /
+
+Sitemap: https://agentactions.org/sitemap.xml
