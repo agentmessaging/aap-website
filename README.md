@@ -14,6 +14,7 @@ The full protocol specification lives at [agentmessaging/agent-actions](https://
 
 - [AMP](https://agentmessaging.org) — Agent Messaging Protocol
 - [AID](https://agentids.org) — Agent Identity Protocol
+- [AFP](https://agentfiles.org) — Agent Files Protocol
 - [AI Maestro](https://ai-maestro.23blocks.com) — Reference implementation
 
 ## License
